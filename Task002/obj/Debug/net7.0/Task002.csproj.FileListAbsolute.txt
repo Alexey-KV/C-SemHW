@@ -1,0 +1,15 @@
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.csproj.AssemblyReference.cache
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.AssemblyInfoInputs.cache
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.AssemblyInfo.cs
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.csproj.CoreCompileInputs.cache
+C:\GB\VvPrgLang\CShSemHW\Task002\bin\Debug\net7.0\Task002.exe
+C:\GB\VvPrgLang\CShSemHW\Task002\bin\Debug\net7.0\Task002.deps.json
+C:\GB\VvPrgLang\CShSemHW\Task002\bin\Debug\net7.0\Task002.runtimeconfig.json
+C:\GB\VvPrgLang\CShSemHW\Task002\bin\Debug\net7.0\Task002.dll
+C:\GB\VvPrgLang\CShSemHW\Task002\bin\Debug\net7.0\Task002.pdb
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.dll
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\refint\Task002.dll
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.pdb
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\Task002.genruntimeconfig.cache
+C:\GB\VvPrgLang\CShSemHW\Task002\obj\Debug\net7.0\ref\Task002.dll
